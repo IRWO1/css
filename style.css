@@ -1,35 +1,19 @@
-h1 {
-color: white;
-background-color: grey;
-width: 500px; 
-height: 800px;
+body{
+    background-color: grey;
+    width: 500px; 
+    height: 800px;
+    padding: 30px;
 }
 
-#nr1{
+h1 {
+color: white;
+
+}
+
+.box{
     background-color: orange;
     width: 150px;
     height: 150px;
-    margin-left: 50px;
     margin-top: 20px;
 }
-#nr2{
-    background-color: orange;
-    width: 150px;
-    height: 150px;
-    margin-left: 50px;
-    margin-top: 30px;
-}
-#nr3{
-    background-color: orange;
-    width: 150px;
-    height: 150px;
-    margin-left: 50px;
-    margin-top: 30px;
-}
-#nr4{
-    background-color: orange;
-    width: 150px;
-    height: 150px;
-    margin-left: 50px;
-    margin-top: 30px;
-}
+
