@@ -1,32 +1,26 @@
 body{
     background-color: #f5f5dd;
 }
-#nr1{
-    background-color: rgba(0, 0, 0, 1);
-    width: 150px;
-    height: 150px;
-    margin-left: 50px;
-    margin-top: 20px;
-}
-#nr2{
-    background-color: rgba(0, 0, 0, 0.7);
-    width: 150px;
-    height: 150px;
-    margin-left: 50px;
-    margin-top: 20px;
 
-}
-#nr3{
+.square{ 
+    width: 150px;
+    height: 150px;
+    margin-left: 50px;
+    margin-top: 20px;
+ }
+#nr1{ 
+    background-color: rgba(0, 0, 0, 1);
+    
+ }
+#nr2{ 
+    background-color: rgba(0, 0, 0, 0.7);
+   
+ }
+#nr3{ 
     background-color: rgba(0, 0, 0, 0.4);
-    width: 150px;
-    height: 150px;
-    margin-left: 50px;
-    margin-top: 20px;
-}
-#nr4{
+   
+ }
+#nr4{ 
     background-color: rgba(0, 0, 0, 0.2);
-    width: 150px;
-    height: 150px;
-    margin-left: 50px;
-    margin-top: 20px;
-}
+    
+ }
